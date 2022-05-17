@@ -312,7 +312,7 @@ export class GuiModel {
                             "icon": "fa-weixin",
                             "color": "wisteria",
                             "search": true,
-                            "url": "/activity",
+                            "url": "/group",
                             "form": {
                                 "form": "GroupForm"
                             }
